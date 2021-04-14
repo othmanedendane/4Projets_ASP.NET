@@ -1,0 +1,15 @@
+﻿body {
+}
+.auto-style1 {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+#first {
+    border-style: solid;
+    border-color: rgb(0, 122, 255);
+    width: 268px;
+    margin-left: 511px;
+    background-color: #000000;
+}

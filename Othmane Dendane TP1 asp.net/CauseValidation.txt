@@ -1,0 +1,19 @@
+*********************À quoi sert la propriété CauseValidation ? ***************************
+
+
+
+Attribut CausesValidation spécifie quand le contrôle de bouton est cliqué page est validée.
+
+Lorsque le bouton est cliqué, la page d'exécution de vérification par défaut.
+
+Cette propriété est couramment utilisé pour authentifier lorsque le bouton Annuler pour arrêter ou réinitialiser le bouton est cliqué. 
+
+
+
+
+***********************************Format/Exemple :********************************
+
+<form runat="server">
+<asp:Button id="button1" runat="server"
+CausesValidation="FALSE" Text="Cancel" />
+</form> 

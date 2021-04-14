@@ -1,0 +1,14 @@
+﻿body {
+}
+#division {
+    margin-left: 51px;
+}
+
+.entete {
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: x-large;
+    background-color: #FF3399;
+}

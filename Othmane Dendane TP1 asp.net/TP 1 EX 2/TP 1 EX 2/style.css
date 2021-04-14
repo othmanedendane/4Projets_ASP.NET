@@ -1,0 +1,69 @@
+﻿body {
+    height: 646px;
+}
+
+.auto-style1 {
+    text-align: center;
+    background-color: rgb(92, 9, 9);
+    color: rgb(255, 255, 255);
+}
+
+#first {
+   
+    width: 245px;
+    margin-left: 511px;
+    color: #FF0000;
+}
+
+#div1 {
+    border-style: solid;
+    background-color: rgb(15, 107, 137);
+    margin-left: 25px;
+    float: left;
+    height: 296px;
+    width: 355px;
+    margin-top: 0px;
+}
+
+#div2 {
+    border-style: solid;
+    background-color: rgb(15, 107, 137);
+    height: 304px;
+    width: 343px;
+    margin-left: 553px;
+    margin-bottom: 7px;
+    margin-top: 0px;
+}
+#image {
+    position: absolute;
+}
+#para {
+    position: absolute;
+    top: 481px;
+    left: 449px;
+    font-size: x-large;
+    color: #FF0000;
+}
+#txt {
+    position: absolute;
+    top: 174px;
+    left: 10px;
+    height: 122px;
+    width: 425px;
+}
+#radio1 {
+    position: absolute;
+    top: 656px;
+    left: 669px;
+}
+#radio2 {
+    position: absolute;
+    top: 685px;
+    left: 670px;
+}
+#radio3 {
+    position: absolute;
+    top: 716px;
+    left: 670px;
+    width: 117px;
+}
